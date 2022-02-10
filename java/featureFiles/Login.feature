@@ -1,4 +1,5 @@
 Feature: Checking Login functionality of application
+
 @validcredentials
 Scenario: Checking Login functionality with the valid login credentials
 Given user is on Login page
